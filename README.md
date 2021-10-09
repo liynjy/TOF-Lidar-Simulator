@@ -1,7 +1,7 @@
 # TOF-Lidar-Simulator
 A simulation of TOF (Time of Flight) Lidar (Laser Radar).
 
-=========================================================================
+
 Liadr TX Trig and RX Data Simulation
 =========================================================================
 Author : Lin Junyang
