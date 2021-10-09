@@ -1,4 +1,4 @@
-# TOF-Liadr-Simulator
+# TOF-Lidar-Simulator
 A simulation of TOF (Time of Flight) Lidar (Laser Radar).
 
 % =========================================================================
